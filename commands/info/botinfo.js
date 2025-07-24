@@ -96,8 +96,8 @@ module.exports = {
       .setTimestamp();
 
     const sourceCodeButton = new ButtonBuilder()
-      .setLabel('Source Code')
-      .setURL('https://github.com/gaurav87565/Lanya-2.0')
+      .setLabel('IG OF DEV')
+      .setURL('https://www.instagram.com/blackopplays/')
       .setStyle(ButtonStyle.Link);
 
     const row = new ActionRowBuilder().addComponents(sourceCodeButton);
